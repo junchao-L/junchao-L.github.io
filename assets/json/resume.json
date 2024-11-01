@@ -17,25 +17,11 @@
   },
   "publications": [
     {
-      "name": "",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
+      "name": "1",
+      "publisher": "1",
+      "releaseDate": "1",
+      "url": "1",
+      "summary": "1"
     },
-    {
-      "name": "",
-      "publisher": "",
-      "releaseDate": "",
-      "",
-      "summary": ""
-    },
-    {
-      "name": "",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
-    }
   ],
 }

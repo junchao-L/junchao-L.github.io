@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://github.com/junchao-L/junchao-L.github.io/blob/main/images/picture.jpg?raw=true" class="floatpic">
+<img src="https://github.com/junchao-L/junchao-L.github.io/blob/main/images/0f1dab2660b2fc5c1bad0d1b863d0ca.jpg?raw=true" class="floatpic">
 
 Here is **Junchao Li (李俊超)**.<br>
 

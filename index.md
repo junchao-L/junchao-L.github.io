@@ -8,7 +8,7 @@ layout: page
 
 Here is **Junchao Li (李俊超)**.<br>
 
-"I am a third-year master's student at the School of Computer Science and Technology, Shandong University, conducting research in the field of operating systems under the guidance of Associate Professor [Runyu Pan](http://www.runyupan.com/) in the [IIC（Institute of Intelligent Computing, IIC）](https://iic.sdu.edu.cn/) lab.<br>
+I am a third-year master's student at the School of Computer Science and Technology, Shandong University, conducting research in the field of operating systems under the guidance of Associate Professor [Runyu Pan](http://www.runyupan.com/) in the [IIC（Institute of Intelligent Computing, IIC）](https://iic.sdu.edu.cn/) lab.<br>
 
 ---
 
